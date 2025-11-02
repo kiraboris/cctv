@@ -1,4 +1,6 @@
 opencv-python>=4.8.0
 onvif-zeep>=0.2.12
 zeep>=4.2.1
+flask>=2.3.0
+gunicorn>=21.2.0
 
